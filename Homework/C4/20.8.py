@@ -1,5 +1,5 @@
 #20.8.1
-letters = input("Insert a sentence: ")
+letters = input("Write a sentence: ")
 letters = letters.lower()
 letter_counts = {}
 for letter in letters:
