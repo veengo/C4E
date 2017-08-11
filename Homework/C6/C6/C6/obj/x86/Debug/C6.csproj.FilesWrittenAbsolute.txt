@@ -1,0 +1,5 @@
+/Users/Vyca/Desktop/C4E/Homework/C6/C6/C6/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Vyca/Desktop/C4E/Homework/C6/C6/C6/bin/Debug/C6.exe.mdb
+/Users/Vyca/Desktop/C4E/Homework/C6/C6/C6/bin/Debug/C6.exe
+/Users/Vyca/Desktop/C4E/Homework/C6/C6/C6/obj/x86/Debug/C6.exe
+/Users/Vyca/Desktop/C4E/Homework/C6/C6/C6/obj/x86/Debug/C6.exe.mdb
