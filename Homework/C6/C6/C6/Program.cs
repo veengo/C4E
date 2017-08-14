@@ -29,9 +29,9 @@ namespace C6
 				Console.ReadLine ();
 
 				//Ex2
-				Console.WriteLine ("Hello, ");
-				Console.WriteLine ("my name ");
-				Console.WriteLine ("is B-max");
+				Console.Write ("Hello, ");
+				Console.Write ("my name ");
+				Console.Write ("is B-max");
 				Console.ReadLine ();
 
 				//Ex3
